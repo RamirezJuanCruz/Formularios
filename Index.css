@@ -1,0 +1,118 @@
+@import url('https://fonts.google.com/specimen/Bebas+Neue');
+
+
+body {
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+input {
+    background-color: antiquewhite;
+    border-radius: 15px;
+    height: 25px;
+    font-size: 16px;
+}
+
+select {
+    background-color: antiquewhite;
+    border-radius: 15px;
+    height: 25px;
+    font-size: 16px;
+}
+
+fieldset {
+    background-color: rgb(224, 224, 224);
+    font-size: large;
+    color: rgb(0, 0, 0);
+    padding: 30px;
+    background-color: #e7e7e7;
+    position: relative;
+    box-shadow: 0px 0px 44px 17px #777777;
+
+    padding: 35px;
+
+}
+
+h2 {
+    font-size: 250%;
+    font-style: oblique;
+    text-align: center;
+}
+
+.imagen {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+
+}
+
+footer {
+    text-align: center;
+    color: rgb(12, 12, 12);
+    background-color: rgb(201, 201, 201);
+    border-top: 5px solid rgb(0, 0, 0);
+}
+
+.Instagram {
+    padding: 5px;
+}
+
+
+.email {
+    height: 100px;
+    padding: 10px;
+}
+
+.x {
+    height: 50px;
+    padding: 5px;
+}
+
+.enviar {
+    font-size: large;
+    margin-top: 25px;
+    text-align: center;
+    border-radius: 25px
+}
+
+.Ubisoft {
+    height: 50px;
+    padding: 5px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+legend {
+    font-size: 26px;
+    text-shadow: -4px 1px 7px rgba(148, 148, 148, 0.69);
+}
+
+.datos{
+    margin-bottom: 25px;
+}
+
+.contactos{
+    margin-bottom: 25px;
+
+}
+
+.residencia{
+    margin-bottom: 25px;
+
+}
+
+.especificación{
+    margin-bottom: 25px;
+
+}
+
+header{
+    border-bottom: 7px solid rgb(0, 0, 0);
+    width: 520px;
+}
